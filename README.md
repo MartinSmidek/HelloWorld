@@ -1,3 +1,3 @@
 # hello-world
 Tož, pořád se člověk učí, že?
-Ano.
+Ano. Ale čím dál pomaleji.
